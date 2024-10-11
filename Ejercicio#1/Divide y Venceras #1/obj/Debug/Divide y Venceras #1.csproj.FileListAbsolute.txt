@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\bin\Debug\Divide y Venceras #1.exe.config
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\bin\Debug\Divide y Venceras #1.exe
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\bin\Debug\Divide y Venceras #1.pdb
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide y Venceras #1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide_y_Venceras__1.Form1.resources
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide_y_Venceras__1.Properties.Resources.resources
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide y Venceras #1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide y Venceras #1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide y Venceras #1.exe
+C:\Users\admin\Desktop\Divide y Venceras\Ejercicio#1\Divide y Venceras #1\obj\Debug\Divide y Venceras #1.pdb

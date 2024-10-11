@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide y Venceras#2", "Divide y Venceras#2\Divide y Venceras#2.csproj", "{97331F6E-D350-49CD-8605-14960C44DFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97331F6E-D350-49CD-8605-14960C44DFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97331F6E-D350-49CD-8605-14960C44DFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97331F6E-D350-49CD-8605-14960C44DFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97331F6E-D350-49CD-8605-14960C44DFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CEA38E7-31E6-46A8-B18C-9FC48B48372F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Divide y Venceras\\Ejercicio#2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97331F6E-D350-49CD-8605-14960C44DFE8}|Divide y Venceras#2\\Divide y Venceras#2.csproj|c:\\users\\admin\\desktop\\divide y venceras\\ejercicio#2\\divide y venceras#2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97331F6E-D350-49CD-8605-14960C44DFE8}|Divide y Venceras#2\\Divide y Venceras#2.csproj|solutionrelative:divide y venceras#2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97331F6E-D350-49CD-8605-14960C44DFE8}|Divide y Venceras#2\\Divide y Venceras#2.csproj|c:\\users\\admin\\desktop\\divide y venceras\\ejercicio#2\\divide y venceras#2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97331F6E-D350-49CD-8605-14960C44DFE8}|Divide y Venceras#2\\Divide y Venceras#2.csproj|solutionrelative:divide y venceras#2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Divide y Venceras\\Ejercicio#2\\Divide y Venceras#2\\Form1.cs",
+              "RelativeDocumentMoniker": "Divide y Venceras#2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Divide y Venceras\\Ejercicio#2\\Divide y Venceras#2\\Form1.cs",
+              "RelativeToolTip": "Divide y Venceras#2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:47:07.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Divide y Venceras\\Ejercicio#2\\Divide y Venceras#2\\Form1.cs",
+              "RelativeDocumentMoniker": "Divide y Venceras#2\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Divide y Venceras\\Ejercicio#2\\Divide y Venceras#2\\Form1.cs [Design]",
+              "RelativeToolTip": "Divide y Venceras#2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:47:01.193Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
